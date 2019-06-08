@@ -17,8 +17,11 @@ p, pre {
 }
 
 .indian-flag {
-  height: 10%;
-  width: 40%;
+  height: 1%;
+  width: 3%;
+  margin-right: 35%;
+
+
 }
 
 .our-mission {
@@ -34,10 +37,20 @@ p, pre {
 
 
 
+
+}
+
+.graph {
+  width: 40%;
+  height: 80%;
 }
 
 .nav-link:hover {
 
   background-color: orange;
 
+}
+
+body {
+  font-family: montserrat;
 }
